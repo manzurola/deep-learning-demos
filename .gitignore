@@ -1,0 +1,5 @@
+# Project exclude paths
+/venv/
+/grammarchecker/model_save/pytorch_model.bin
+/.idea/
+__pycache__/
